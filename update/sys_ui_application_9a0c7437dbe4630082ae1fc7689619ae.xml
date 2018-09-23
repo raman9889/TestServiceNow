@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>HelloWorldTable</name>
+        <order/>
+        <roles>x_270844_helloworl.helloworldtable_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-21 11:07:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9a0c7437dbe4630082ae1fc7689619ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HelloWorldTable</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="HelloWorld" source="x_270844_helloworl">1c9b74b7db64630082ae1fc7689619df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HelloWorld">1c9b74b7db64630082ae1fc7689619df</sys_scope>
+        <sys_update_name>sys_ui_application_9a0c7437dbe4630082ae1fc7689619ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-21 11:07:03</sys_updated_on>
+    </sys_ui_application>
+</record_update>
