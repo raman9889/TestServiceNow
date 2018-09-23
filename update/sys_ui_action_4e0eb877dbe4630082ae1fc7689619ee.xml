@@ -45,7 +45,6 @@ else{
    //Display info message and reload the form
    gs.addInfoMessage('Record included in <a href="sys_update_set.do?sys_id=' + setID + '">' + us.name + '</a> update set.');
    action.setRedirectURL(current);
-    alert('checking the change via REST API');
 }]]></script>
         <show_insert>true</show_insert>
         <show_multiple_update>false</show_multiple_update>
