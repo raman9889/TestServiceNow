@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="comments" table="x_270844_helloworl_helloworldtable">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="test1" table="x_270844_helloworl_helloworldtable">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Comments</column_label>
+        <column_label>TEST1</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -22,12 +22,12 @@
         <delete_roles/>
         <dependent/>
         <dependent_on_field/>
-        <display>false</display>
+        <display>true</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>comments</element>
+        <element>test1</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-09-24 05:21:50</sys_created_on>
-        <sys_id>0e88bde4db21230037ad9b81ca9619ab</sys_id>
+        <sys_created_on>2018-10-31 06:09:04</sys_created_on>
+        <sys_id>c857fda4db21230037ad9b81ca9619ce</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Comments</sys_name>
+        <sys_name>TEST1</sys_name>
         <sys_package display_value="HelloWorld" source="x_270844_helloworl">1c9b74b7db64630082ae1fc7689619df</sys_package>
         <sys_policy/>
         <sys_scope display_value="HelloWorld">1c9b74b7db64630082ae1fc7689619df</sys_scope>
-        <sys_update_name>sys_dictionary_x_270844_helloworl_helloworldtable_comments</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-10-31 06:13:54</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_270844_helloworl_helloworldtable_test1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-31 06:09:04</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

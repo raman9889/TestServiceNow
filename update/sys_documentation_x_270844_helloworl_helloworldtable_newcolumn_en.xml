@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="name" label="Name" language="en" table="x_270844_helloworl_helloworldtable">
+    <sys_documentation element="newcolumn" label="NewColumn" language="en" table="x_270844_helloworl_helloworldtable">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>name</element>
+            <element>newcolumn</element>
             <help/>
             <hint/>
-            <label>Name</label>
+            <label>NewColumn</label>
             <language>en</language>
             <name>x_270844_helloworl_helloworldtable</name>
-            <plural>Names</plural>
+            <plural>NewColumns</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-09-21 11:07:04</sys_created_on>
-            <sys_id>6e0c7437dbe4630082ae1fc7689619d5</sys_id>
+            <sys_created_on>2018-10-03 16:45:08</sys_created_on>
+            <sys_id>237cfbe3dbb8230037ad9b81ca961974</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Name</sys_name>
+            <sys_name>NewColumn</sys_name>
             <sys_package display_value="HelloWorld" source="x_270844_helloworl">1c9b74b7db64630082ae1fc7689619df</sys_package>
             <sys_policy/>
             <sys_scope display_value="HelloWorld">1c9b74b7db64630082ae1fc7689619df</sys_scope>
-            <sys_update_name>sys_documentation_x_270844_helloworl_helloworldtable_name_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_270844_helloworl_helloworldtable_newcolumn_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-09-21 11:07:04</sys_updated_on>
+            <sys_updated_on>2018-10-03 16:45:08</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
