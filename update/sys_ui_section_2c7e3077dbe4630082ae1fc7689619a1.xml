@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="2c7e3077dbe4630082ae1fc7689619a1" sys_domain="global" table="x_270844_helloworl_helloworldtable" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
@@ -96,6 +95,48 @@
             <sys_ui_section caption="NULL" display_value="" name="x_270844_helloworl_helloworldtable" sys_domain="global" view="Default view">2c7e3077dbe4630082ae1fc7689619a1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-09-24 05:21:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>newcolumn</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-03 16:45:08</sys_created_on>
+            <sys_id>ab7cfbe3dbb8230037ad9b81ca961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_270844_helloworl_helloworldtable" sys_domain="global" view="Default view">2c7e3077dbe4630082ae1fc7689619a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-03 16:45:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fromstudio</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-03 16:48:42</sys_created_on>
+            <sys_id>7b4df727dbb8230037ad9b81ca9619f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_270844_helloworl_helloworldtable" sys_domain="global" view="Default view">2c7e3077dbe4630082ae1fc7689619a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-03 16:48:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>test1</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-31 06:09:04</sys_created_on>
+            <sys_id>d76771e4db21230037ad9b81ca961950</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_270844_helloworl_helloworldtable" sys_domain="global" view="Default view">2c7e3077dbe4630082ae1fc7689619a1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-31 06:09:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
